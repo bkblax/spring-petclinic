@@ -138,7 +138,6 @@
        <artifactId>tomcat7-maven-plugin</artifactId>
        <version>2.2</version>
        <configuration>
-       <ignorePackaging>true</ignorePackaging>
        <server>tomcat-development-server</server>
        <url>http://52.20.50.85:8080/manager/text</url>
        <warFile>target\petclinic.war</warFile>
