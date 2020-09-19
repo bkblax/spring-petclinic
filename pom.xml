@@ -139,7 +139,7 @@
        <version>2.2</version>
        <configuration>
        <server>tomcat-development-server</server>
-       <url>http://3.227.3.32:8080/manager/text</url>
+       <url>http://52.20.50.85:8080/manager/text</url>
        <warFile>target\petclinic.war</warFile>
        <path>/petclinic</path>
        <username>admin</username>
